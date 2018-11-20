@@ -1,0 +1,13 @@
+{
+	"prompt":["a name", "a thing", "a feeling", "another feeling", "some things"],
+	"story": "Once upon a time a %s ate a %s and felt very %s. It was a %s day for all good %s."
+		},
+	story2 = {
+	"prompt" : ["a thing", "an adjective (a description word)", "a name", "a place", "a verb", "a second person's name", "a third person's name"],
+	"story" : "A poem.\n\nI wish I was a %s, %s as can be, \n Then you could call me %s,\n And I would finally be free.\n\n Then I would visit %s \nAnd %s all day long,\nAnd I would call you %s,\nAnd teach %s my song"
+		},
+	story3 = {
+		"prompt" : ["a person's name", "a place", "some things (plural)", "a wprd ending in -ly", "a thing"],
+		"story" : "Dear %s,\n\nI hope this letter finds you well.  I have spent the past three weeks in %s researching the history of %s for my new book.  I miss you %s, and whenever I see a %s I think of you."
+		}
+	}
